@@ -1,2 +1,2 @@
-# go-jwt
-# go-jwt
+# go-auth
+# go-auth
